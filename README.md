@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
 <h2 align="left">A passionate AWS & DevOps Engineer from Germany</h2>
 
 ###
