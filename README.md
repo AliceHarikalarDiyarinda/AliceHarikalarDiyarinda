@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there , welcome to Gamze profile👋
+Hello, I'm a very good AWS & DevOps Engineer
 <!--
 **AliceHarikalarDiyarinda/AliceHarikalarDiyarinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
